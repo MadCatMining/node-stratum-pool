@@ -1,0 +1,69 @@
+{
+  "_from": "git://github.com/zone117x/node-stratum-pool.git",
+  "_id": "stratum-pool@0.1.9",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/stratum-pool",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/zone117x/node-stratum-pool.git",
+    "rawSpec": "git://github.com/zone117x/node-stratum-pool.git",
+    "saveSpec": "git://github.com/zone117x/node-stratum-pool.git",
+    "fetchSpec": "git://github.com/zone117x/node-stratum-pool.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/zone117x/node-stratum-pool.git#57982f88b1f5e74af4e9e0b3fc9b860c7aaf48f7",
+  "_spec": "git://github.com/zone117x/node-stratum-pool.git",
+  "_where": "/root/nomp",
+  "author": {
+    "name": "Matthew Little"
+  },
+  "bugs": {
+    "url": "https://github.com/zone117x/node-stratum-pool/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "vekexasia"
+    },
+    {
+      "name": "TheSeven"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "base58-native": "*",
+    "bignum": "0.12.5",
+    "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
+    "hasher-mtp": "https://github.com/MadCatMining/node-hasher-mtp.git"
+  },
+  "deprecated": false,
+  "description": "High performance Stratum poolserver in Node.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "homepage": "https://github.com/zone117x/node-stratum-pool",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "bitcoin",
+    "litecoin",
+    "scrypt"
+  ],
+  "license": "GPL-2.0",
+  "main": "lib/index.js",
+  "name": "stratum-pool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zone117x/node-stratum-pool.git"
+  },
+  "version": "0.1.9"
+}
