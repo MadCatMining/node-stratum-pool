@@ -39,7 +39,7 @@
     "async": "*",
     "base58-native": "*",
     "bignum": "0.12.5",
-    "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
+    "multi-hashing": "https://github.com/MadCatMining/node-multi-hashing.git",
     "hasher-mtp": "https://github.com/MadCatMining/node-hasher-mtp.git"
   },
   "deprecated": false,
